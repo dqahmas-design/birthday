@@ -8,9 +8,10 @@ var config = {
         "以后我们还要",
         "一起过无数个生日",
         "我们要永远永远在一起",
+        "生日快乐",
     ],
     imgs: {
-        "生日快乐~": "./imgs/xiaokeai.JPG",
+        "生日快乐": "./imgs/xiaokeai.JPG",
     },
     desc: {
         turn_on: "开始",
