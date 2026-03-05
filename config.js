@@ -10,7 +10,7 @@ var config = {
         "我们要永远永远在一起",
     ],
     imgs: {
-        "生日快乐~": "./imgs/xiaokeai.jpg",
+        "生日快乐~": "./imgs/xiaokeai.JPG",
     },
     desc: {
         turn_on: "开始",
