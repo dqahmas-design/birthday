@@ -11,12 +11,12 @@ var config = {
         "生日快乐",
     ],
     imgs: {
-        "生日快乐": "./imgs/xiaokeai.JPG",
+        "心爱的老婆": "./imgs/xiaokeai.JPG",
     },
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "横幅",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
